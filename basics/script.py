@@ -1,0 +1,5 @@
+print("hello world")
+print(6553%3)
+print("hello world")
+print("7-4")
+print(4-5)
